@@ -1,6 +1,6 @@
 # Push_Swap Project
 
-This project aims to sort a given set of integers using a predefined set of instructions and the least number of movements possible, utilizing two stacks. The goal is to implement a sorting algorithm that is efficient in terms of both time and space complexity.
+This project's objective is to sort a given a set of integers using a predefined set of instructions. We need to aim for the least amount of movements possible using two stacks.
 
 ## Instructions
 
@@ -25,3 +25,5 @@ To test this project:
 `./push_swap "1 2 0 3 5"`
 
 Happy testing! 💗
+
+![image](https://github.com/user-attachments/assets/9ff6e6e5-6cd9-47e4-81a4-18154917c7a0)
