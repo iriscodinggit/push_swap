@@ -27,3 +27,5 @@ To test this project:
 Happy testing! 💗
 
 ![image](https://github.com/user-attachments/assets/9ff6e6e5-6cd9-47e4-81a4-18154917c7a0)
+
+Figure 1. Graphic representation of Ksort algorithm
